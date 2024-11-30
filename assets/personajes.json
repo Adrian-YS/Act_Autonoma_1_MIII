@@ -1,0 +1,53 @@
+[
+    {
+      "nombre": "Ahri",
+      "descripcion": "Una vastaya encantadora con el poder de manipular las emociones y robar la esencia de sus enemigos.",
+      "imagen": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Ahri_OriginalCentered.jpg"
+    },
+    {
+      "nombre": "Yasuo",
+      "descripcion": "Un espadachín ágil y letal que utiliza el viento como su aliado en combate.",
+      "imagen": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Yasuo_OriginalCentered.jpg"
+    },
+    {
+      "nombre": "Jinx",
+      "descripcion": "Una criminal excéntrica de Zaun que disfruta sembrar el caos con sus armas explosivas.",
+      "imagen": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Jinx_OriginalCentered.jpg"
+    },
+    {
+      "nombre": "Teemo",
+      "descripcion": "Un explorador yódl que utiliza trampas y venenos para defender a sus aliados.",
+      "imagen": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9f/Teemo_OriginalCentered.jpg"
+    },
+    {
+      "nombre": "Thresh",
+      "descripcion": "Un espíritu malévolo que encadena y tortura las almas de los desafortunados que captura.",
+      "imagen": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Thresh_OriginalCentered.jpg"
+    },
+    {
+      "nombre": "Lux",
+      "descripcion": "Una maga optimista que domina la luz para proteger a sus aliados y derrotar a sus enemigos.",
+      "imagen": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Lux_OriginalCentered.jpg"
+    },
+    {
+      "nombre": "Zed",
+      "descripcion": "Un maestro de las sombras que busca imponer su filosofía mediante la fuerza.",
+      "imagen": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Zed_OriginalCentered.jpg"
+    },
+    {
+      "nombre": "Miss Fortune",
+      "descripcion": "Una cazarrecompensas letal conocida por su precisión y carisma.",
+      "imagen": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Miss_Fortune_OriginalCentered.jpg"
+    },
+    {
+      "nombre": "Draven",
+      "descripcion": "El glorioso verdugo de Noxus, conocido por su estilo espectacular en la arena.",
+      "imagen": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Draven_OriginalCentered.jpg"
+    },
+    {
+      "nombre": "Ekko",
+      "descripcion": "Un genio de Zaun que manipula el tiempo para superar cualquier obstáculo.",
+      "imagen": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6f/Ekko_OriginalCentered.jpg"
+    }
+  ]
+  
